@@ -1,7 +1,7 @@
 {
   "editor.fontSize": 16,
   "window.zoomLevel": 1.5,
-  "workbench.colorTheme": "Default High Contrast Light",
+  "workbench.colorTheme": "Dracula At Night",
   "editor.formatOnSave": true,
   "prettier.requireConfig": true
 }
